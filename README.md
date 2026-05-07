@@ -43,8 +43,3 @@ I'm a student of Applied Mathematics and Informatics at HSE University, focusing
 ### 📫 Let's Connect:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imballet)
 [![Website](https://img.shields.io/badge/Website-financier.com.ru-4EAA25?style=for-the-badge&logo=google-chrome&logoColor=white)](http://financier.com.ru)
-
----
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=financier-py&layout=compact&theme=radical&hide=jupyter+notebook)
